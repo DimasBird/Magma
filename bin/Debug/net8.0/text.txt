@@ -1,0 +1,1 @@
+This text consists of several chars to check encrypt and decrypt functions
